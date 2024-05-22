@@ -1,0 +1,1 @@
+Agregar archivos tgf output de mvn a resources.
